@@ -20,7 +20,7 @@ project:
   # WARNING: VHDL support in Tiny Tapeout is experimental. The template may get changes during
   #          the shuttle and VHDL support may be dropped for future shuttles if we see low usage.
   source_files:
-    - "fa_1bit_behavioural.vhd"
+    - "tt_um_fa_1bit_behavioural.vhd"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
