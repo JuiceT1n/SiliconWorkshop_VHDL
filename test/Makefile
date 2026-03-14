@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = generated/tt_fa_1bit_behavioural.v
+PROJECT_SOURCES = generated/tt_um_fa_1bit_behavioural.v
 
 ifneq ($(GATES),yes)
 
